@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://refactor.se
+url: http://connylundgren.com
 title: Conny Lundgren
-subtitle: On Agile, Development, Mac, Technology and life in general.
+subtitle: Photography
 author: Conny Lundgren
 simple_search: http://google.com/search
-description: Ramblings on Agile, development, macs and life in general.
+description: Everything photography.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -16,7 +16,7 @@ description: Ramblings on Agile, development, macs and life in general.
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: http://feeds.feedburner.com/refactor
+subscribe_rss: http://feeds.feedburner.com/connylundgren
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
