@@ -6,7 +6,7 @@ require "stringex"
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
 ssh_user       = "conlun@refactor.se"
 ssh_port       = "22"
-document_root  = "~/blog.refactor.se"
+document_root  = "~/connylundgren.com"
 rsync_delete   = true
 deploy_default = "rsync"
 
